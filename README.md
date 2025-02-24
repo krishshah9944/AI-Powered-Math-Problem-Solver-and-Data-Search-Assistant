@@ -54,6 +54,7 @@ streamlit run app.py
 1️⃣ **Open the application**.
 
 2️⃣ **Enter your mathematical question or search query** in the provided text box.
+
 3️⃣ **Click "Find Answer"** to get AI-generated solutions.
 4️⃣ **Receive step-by-step explanations** for math problems or Wikipedia search results.
 5️⃣ **Engage with the chatbot** for continuous assistance.
