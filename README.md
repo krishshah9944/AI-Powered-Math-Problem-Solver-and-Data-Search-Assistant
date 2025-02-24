@@ -58,6 +58,7 @@ streamlit run app.py
 3️⃣ **Click "Find Answer"** to get AI-generated solutions.
 
 4️⃣ **Receive step-by-step explanations** for math problems or Wikipedia search results.
+
 5️⃣ **Engage with the chatbot** for continuous assistance.
 
 ## 🤝 Contributing
