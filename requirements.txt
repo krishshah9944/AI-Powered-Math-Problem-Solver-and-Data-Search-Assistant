@@ -22,7 +22,6 @@ arxiv
 wikipedia
 mysql-connector-python
 youtube_transcript_api
-unstructured
 pytube
 numexpr
 huggingface_hub
@@ -34,8 +33,5 @@ fastapi
 uvicorn
 langserve
 sse_starlette
-crewai
-crewai_tools
-litellm
 apscheduler
 python-multipart
